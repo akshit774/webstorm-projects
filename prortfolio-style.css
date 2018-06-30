@@ -1,0 +1,132 @@
+.img11{
+    padding-left: 4rem;
+    padding-right: 4rem;
+    background-color: #1f9496;
+    text-align: center;
+    min-height: 22rem;
+    margin-top: 1rem;
+    overflow-x: scroll;
+   /*position: relative;*/
+}
+.ed11{
+    overflow-x: scroll;
+    margin-top: 1rem;
+    background-color: lightblue;
+    padding: auto;
+    min-height: 18rem;
+}
+.IN11{
+    overflow-x: scroll;
+    margin-top: 1rem;
+    background-color: lightcyan;
+    min-height: 18rem;
+    padding: auto;
+}
+.pp11{
+    overflow-x: scroll;
+   margin-top: 1rem;
+    background-color: lightcyan;
+ }
+.pp22{
+    overflow-x: scroll;
+    margin-top: 1rem;
+    background-color: #e6ffff;
+}
+.pp33{
+    overflow-x: scroll;
+    margin-top: 1rem;
+    background-color: aliceblue;
+}
+/*.academicsAnd{*/
+    /*position: relative;*/
+    /*max-height: available;*/
+    /**/
+/*!*}*!*/
+/*.col-lg-7{*/
+    /*position: relative;*/
+    /*!*max-height: 900rem;*!*/
+/*}*/
+.projects{
+    min-height: 22rem;
+}
+.ud{
+    text-align: center;
+    list-style: none;
+}
+.secondd{
+    min-height: 22rem;
+}
+.academicsAnd{
+    min-height: 22rem;
+}
+.headingss{
+    margin-top: 1rem;
+   // font-family: Algerian;
+    font-style: normal;
+    font-size: 1.1rem;
+    color:#1f9496;
+
+}
+.tt11{
+    align-content: space-evenly;
+    text-align: left;
+}
+
+.secondd{
+    top:122px;
+}
+.row{
+    margin-top: 1%;
+    margin-left: 7%;
+    margin-right: 7%;
+    border-radius: 12%;
+
+}
+.pro{
+    font-size: 2rem;
+    font-family: Monaco, serif;
+    font-style: italic;
+    color: lightseagreen;
+}
+/*.col-lg-1 col-md-1 col-sm-12{*/
+    /*position: absolute;*/
+/*}*/
+/*
+.invv{
+    background-color: #1f9496;
+    border-radius: 50%;
+    color: white;
+    height:35px;
+    width:35px;
+
+}*/
+
+.col-lg-1{
+    border: 3px solid blue;
+}
+
+
+
+.flexi{
+    position: relative;
+    top: 14px;
+    /*display: flex;*/
+    /*flex-wrap: wrap;*/
+    /*display: inline-block;*/
+}
+.progressBars{
+    width: 70%;
+    position: relative;
+    top: -120px;
+    left: 168px;
+
+}
+.text11{
+    position: absolute;
+    width: 25%;
+    left: 10px;
+    top: 100px;
+}
+.progress{
+    margin-bottom: 16px;
+}
